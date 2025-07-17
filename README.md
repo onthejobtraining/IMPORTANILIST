@@ -1,3 +1,5 @@
+Inspired from https://github.com/bradjasper/ImportJSON 
+
 # IMPORTANILIST for Google Sheets 🗂️✨
 
 **Version:** 5.0 — *Header Mapping & Final Edition*
@@ -356,6 +358,7 @@ SOFTWARE.
 
 * AniList API & community ❤️
 * Google Apps Script platform
+* Brad Jasper: https://github.com/bradjasper/ImportJSON
 
 ---
 
